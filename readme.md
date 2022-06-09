@@ -1,11 +1,10 @@
 # Tetra League Bot
 
-<h4 align="center">Something goes here later.</h4>
+<h4 align="center">A fun and small bot that shows statistics about your member's Tetr.io gameplay.</h4>
 
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 ![](images/game.PNG)
 
-A fun and small bot that shows statistics about your member's Tetr.io gameplay.
 
 ## Features
 
